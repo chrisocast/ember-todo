@@ -1,0 +1,13 @@
+{
+  "name": "ember-todo",
+  "version": "0.1.0",
+  "dependencies": {
+      "jquery": "~2.0.0",
+      "ember": "http://builds.emberjs.com.s3.amazonaws.com/ember-latest.js",
+      "ember-data": "http://builds.emberjs.com.s3.amazonaws.com/ember-data-latest.js",
+      "requirejs": "~2.1.6",
+      "handlebars": "http://builds.emberjs.com.s3.amazonaws.com/handlebars.runtime-1.0.0-rc.4.js",
+      "requirejs-text": "~2.0.6",
+      "normalize.scss": "~2.1.0"
+  }
+}

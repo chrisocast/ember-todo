@@ -1,0 +1,17 @@
+{
+  "name": "ember-app",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-regarde": "~0.1.1",
+    "grunt-contrib-livereload": "0.1.0rc8",
+    "grunt-contrib-connect": "~0.1.1rc6",
+    "grunt-contrib-compass": "~0.1.1rc8",
+    "grunt-contrib-requirejs": "~0.3.4",
+    "grunt-contrib-jshint": "~0.1.0",
+    "grunt-exec": "~0.4.0",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-ember-templates": "~0.4.4"
+  }
+}
