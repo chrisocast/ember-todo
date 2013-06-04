@@ -1,5 +1,5 @@
 require([
-  'jquery'
-], function($) {
-  window.$ = $;
+  './application'
+], function(App) {
+  window.App = App;
 });
